@@ -63,7 +63,7 @@ Les contributions au projet sont les bienvenues ! Si vous souhaitez contribuer, 
 
 Auteurs
 
-Bello-dev - Développeur principal
+****Bello-dev**** : -Développeur principal
 
 Licence
 
