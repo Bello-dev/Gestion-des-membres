@@ -51,7 +51,7 @@ Lorsque le programme est exécuté, vous aurez accès à un menu interactif vous
   ##### Afficher les membres :
   La liste complète des membres sera affichée à l'écran.
 
-###Contribuer
+### Contribuer
 
 Les contributions au projet sont les bienvenues ! Si vous souhaitez contribuer, veuillez suivre les étapes suivantes :
 
